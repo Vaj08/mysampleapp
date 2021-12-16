@@ -1,4 +1,2 @@
 This is line.
-Change made in abranch.
-Local repo line. 
-Remote repo line. 
+Thi is remote text.
