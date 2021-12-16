@@ -1,4 +1,3 @@
 This is line.
 Change made in abranch.
-Adding line in local repo.
-Adding line in local repo.
+Adding 1 line. 
