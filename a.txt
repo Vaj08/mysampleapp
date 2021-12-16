@@ -1,2 +1,2 @@
 This is line.
-This is remote text.
+This is local text.
